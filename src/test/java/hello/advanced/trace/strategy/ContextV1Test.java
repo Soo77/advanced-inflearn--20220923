@@ -47,5 +47,6 @@ public class ContextV1Test {
         StrategyLogic2 strategyLogic2 = new StrategyLogic2();
         ContextV1 context2 = new ContextV1(strategyLogic2);
         context2.execute();
+
     }
 }
